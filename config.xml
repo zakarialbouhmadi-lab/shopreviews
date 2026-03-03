@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>shopreviews</name>
+    <displayName><![CDATA[Shop Reviews]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Allow customers to leave reviews about your shop]]></description>
+    <author><![CDATA[Zaki-LB]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+</module>
