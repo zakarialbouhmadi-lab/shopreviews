@@ -77,3 +77,7 @@ The module manages its own data persistence. Upon installation, it executes the 
 * **Access Control:** The submission form includes basic bot protection logic.
 
 ---
+
+## 📄 License
+
+All Rights Reserved. This repository is available for portfolio and educational viewing purposes only. Commercial or non-commercial use, distribution, or modification is strictly prohibited without explicit written permission.
