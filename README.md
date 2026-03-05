@@ -8,7 +8,7 @@
 ## Technical Stack
 
 * **PrestaShop Compatibility:** 1.7.x / 8.x
-* **Language Support:** Multi-language ready (Translations included for English, French, Polish, and Arabic).
+* **Language Support:** Multi-language ready (Translations included for English, German, Polish, Spanish and Czech).
 * **Database:** Custom relational table for review management.
 
 ## Key Features
