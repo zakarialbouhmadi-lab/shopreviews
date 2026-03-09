@@ -1,5 +1,5 @@
 # Shop Reviews - PrestaShop Module
-
+![PrestaShop](https://img.shields.io/badge/PrestaShop-8-blue)
 ## Overview
 
 **Shop Reviews** is a specialized module designed to collect and display authentic customer feedback directly on your store. Unlike standard product reviews, this module focuses on the **overall shopping experience**, helping to build brand trust and improve SEO through fresh, user-generated content.
